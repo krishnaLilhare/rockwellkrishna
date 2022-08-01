@@ -1,0 +1,22 @@
+{
+  "name": "rockwellkrishna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnaLilhare/rockwellkrishna.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnaLilhare/rockwellkrishna/issues"
+  },
+  "homepage": "https://github.com/krishnaLilhare/rockwellkrishna#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
